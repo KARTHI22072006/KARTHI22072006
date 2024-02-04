@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @KARTHI22072006
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Information Technology
